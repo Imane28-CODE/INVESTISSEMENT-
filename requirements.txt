@@ -6,3 +6,4 @@ arabic-reshaper
 matplotlib
 python-bidi
 openpyxl
+xlsxwriter
